@@ -16,7 +16,7 @@ import { CatsModule } from './cats/cats.module';
       port: 3306,
       username: 'root',
       password: '328328',
-      database: 'test',
+      database: 'nest',
       entities: [User],
       synchronize: true,
     }),
